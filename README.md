@@ -55,7 +55,7 @@ sudo systemctl enable docker
 
 5. Run the bot:
 ```bash
-python bot.py
+python vmdex.py
 ```
 
 ## Environment Variables
